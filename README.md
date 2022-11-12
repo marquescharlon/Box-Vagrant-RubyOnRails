@@ -15,18 +15,15 @@ Vagrant é um software de código aberto que possibilita criar ambientes de dese
 
 Dessa forma se sua máquina der algum problema você não precisará configurar todo o ambiente, basta acessar o repositório do Vagrant Cloud e baixar a box desejada. Para ajudá-los compartilho o ambiente que criei, nele como já mencionado, possui softwares já instalados e configurados, são eles:
 
-- Ubuntu 18.04.4 LTS
-- Git 2.17.1
-- Yarn 1.22.4 (https://yarnpkg.com/)
-- NodeJS v8.10.0
+- [Ubuntu](https://ubuntu.com/download/desktop) 18.04.4 LTS
+- [Git](https://gitforwindows.org/) 2.17.1
+- [Yarn](https://yarnpkg.com/) 1.22.4
+- [NodeJS](https://nodejs.org/en/) v8.10.0
 - Ruby 2.5.8p224
-- Rails 5.2.4.3
-- RVM 1.29.10
+- [Rails](https://rubyonrails.org/) 5.2.4.3
+- [RVM](https://rvm.io/) 1.29.10
 - MySQL 14.14 Distrib 5.7.30
 - PostgreSQL 10.12
-
-Esse foi um ambiente criado para auxiliar no desenvolvimento do meu Trabalho de Conclusão de Curso [Check-In_RubyOnRails](https://github.com/marquescharlon/Check-In_RubyOnRails).<br>
-Um sistema simples desenvolvido em Ruby On Rails, com foco na aplicação da metodologia ágil eXtreme Programming (XP).
 
 # Por onde começo?
 
@@ -81,3 +78,6 @@ $ sudo apt-get upgrade
 ```
 
 > Lembre que essa máquina virtual (box) possui 924MB, dependendo da velocidade da sua internet é normal demorar um pouco sua configuração. 
+
+Você pode conferir também o repositório [Check-In_RubyOnRails](https://github.com/marquescharlon/Check-In_RubyOnRails).<br>
+Um sistema simples desenvolvido em Ruby On Rails, com foco na aplicação da metodologia ágil eXtreme Programming (XP).
